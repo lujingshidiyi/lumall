@@ -1,6 +1,6 @@
-package com.mmall.dao;
+package com.lumall.dao;
 
-import com.mmall.pojo.Cart;
+import com.lumall.pojo.Cart;
 
 public interface CartMapper {
     int deleteByPrimaryKey(Integer id);

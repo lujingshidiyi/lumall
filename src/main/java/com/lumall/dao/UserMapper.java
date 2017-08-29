@@ -1,6 +1,6 @@
-package com.mmall.dao;
+package com.lumall.dao;
 
-import com.mmall.pojo.User;
+import com.lumall.pojo.User;
 
 public interface UserMapper {
     int deleteByPrimaryKey(Integer id);
